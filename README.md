@@ -1,5 +1,5 @@
-# fr_test
-Тестовое задание от @ya_godless
+<h2 align="center">Тестовое задание от @ya_godless</h2>
+
 Запуск:
 	python3 -m venv env
 	sourse env/bin/activate
@@ -9,11 +9,11 @@
 	python3 manage.py runserver
 enjoy =3
 
-Небольшая документация:
-http://127.0.0.1:8000/api/v1/questionnaire/ - список доступных опросников
-http://127.0.0.1:8000/api/v1/questionnaire/*циферка - подробности самого опросника
-http://127.0.0.1:8000/api/v1/answer/*циферка - Post/Get запрос определенного вопроса
+<p>Небольшая документация:</p>
+<list>http://127.0.0.1:8000/api/v1/questionnaire/ - список доступных опросников</list>
+<list>http://127.0.0.1:8000/api/v1/questionnaire/*циферка - подробности самого опросника</list>
+<list>http://127.0.0.1:8000/api/v1/answer/*циферка - Post/Get запрос определенного вопроса</list>
 
-Доступ к бд:
+<p>Доступ к бд:</p>
 user:fr_test
 password:12345
