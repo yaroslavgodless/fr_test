@@ -4,7 +4,7 @@
 	<li>python3 -m venv env</li>
 	<li>sourse env/bin/activate</li>
 	<li>pip install djangorestframework</li>
-	<li>git pull https://github.com/yaroslavgodless/fr_test.git</li>
+	<li>git clone https://github.com/yaroslavgodless/fr_test.git</li>
 	<li>cd fr_test</li>
 	<li>python3 manage.py runserver</li>
 enjoy =3<
